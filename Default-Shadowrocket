@@ -17,6 +17,7 @@ dns-direct-fallback-proxy = true
 update-url = https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/Default-Shadowrocket
 
 [Rule]
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Apple.list,DIRECT
 RULE-SET,https://rules.ztmy.net/proxy-b.html,PROXY
 RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toSingapore,lala-新加坡
 RULE-SET,https://rules.ztmy.net/direct.html,DIRECT
