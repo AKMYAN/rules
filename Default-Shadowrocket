@@ -14,13 +14,13 @@ icmp-auto-reply = true
 always-reject-url-rewrite = false
 private-ip-answer = true
 dns-direct-fallback-proxy = true
-update-url = https://rules.ztmy.net/rules.html
+update-url = https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/Default-Shadowrocket
 
 [Rule]
 RULE-SET,https://rules.ztmy.net/proxy-b.html,PROXY
-RULE-SET,https://rules.ztmy.net/proxy-a.html,PROXY
+RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toSingapore,lala-新加坡
 RULE-SET,https://rules.ztmy.net/direct.html,DIRECT
-RULE-SET,https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list,JP-1
+RULE-SET,https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list,lala-新加坡
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
