@@ -1,10 +1,11 @@
-#日本分流
+#日本
 
-#niconico
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+#DMM
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN,api-p.videomarket.jp
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,toysheart.co.jp
+
