@@ -19,9 +19,9 @@ update-url = https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/Defa
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Apple.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/Direct,DIRECT
-RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toSingapore,lala-新加坡N
-RULE-SET,https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list,lala-新加坡N
-RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toJapan,lala-东京N
+RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toSingapore,新加坡N
+RULE-SET,https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list,新加坡N
+RULE-SET,https://raw.githubusercontent.com/AKMYAN/rules/refs/heads/main/toJapan,东京N
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
