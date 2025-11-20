@@ -39,3 +39,10 @@ DOMAIN,browser-intake-datadoghq.com @ads
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
+
+# Antigravity
+DOMAIN,antigravity-unleash.goog
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,lh3.googleusercontent.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,us-central1.run.app
